@@ -1,3 +1,13 @@
+## DICOM de-identification workflows
+
+This is a development fork of [RSNA Anonymizer](https://github.com/RSNA/anonymizer), a Python application for DICOM de-identification workflows. The upstream project provides a desktop interface, headless DICOM receiving, and configurable batch processing—useful entry points for teams preparing imaging data for research.
+
+**Contribution to review:** [PR #41](https://github.com/RSNA/anonymizer/pull/41) proposes a separate cache for each macOS documentation-helper process.
+
+For installation and project configuration, begin with the [official user manual](https://rsna.github.io/anonymizer) and the upstream instructions below. Follow the [branch comparison](https://github.com/RSNA/anonymizer/compare/master...jdotc1:master) to distinguish this fork's default branch from RSNA's source.
+
+---
+
 # RSNA DICOM Anonymizer (V19)
 
 [en](readme.md) · [de](readme.de.md) · [es](readme.es.md) · [fr](readme.fr.md)
